@@ -1,16 +1,6 @@
-# easy_mealing_system
+# Easy Mealing System
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ * This is Meal system app build in Flutter. 
+ * Sqflite database used for store data. 
+ * Manager and Member can collaborate here at a time with different phone number and password.
+ * Guest mode are enable for new member to check.\\
